@@ -1,0 +1,67 @@
+field_or_platform,beneficiary_country,scenario,papers,average_capture_share,median_capture_share,max_capture_share,roles,partial_country_benefit_layer
+PERC silicon solar cells,China,base,1,0.7,0.7,0.7,manufacturing,True
+Nd-Fe-B rare-earth permanent magnets,China,base,1,0.65,0.65,0.65,manufacturing,True
+Lithium-ion batteries / LFP cathode,China,base,1,0.6,0.6,0.6,manufacturing,True
+High-brightness blue GaN LED,China,base,1,0.4,0.4,0.4,manufacturing,True
+Lithium-ion batteries / layered oxide cathodes,China,base,1,0.4,0.4,0.4,manufacturing,True
+Residual networks / computer vision,China,base,1,0.35,0.35,0.35,manufacturing,True
+Robot Operating System / ROS,China,base,1,0.35,0.35,0.35,manufacturing,True
+SLAM / autonomous robotics,China,base,1,0.35,0.35,0.35,adoption_market,True
+YOLO real-time object detection,China,base,1,0.35,0.35,0.35,manufacturing,True
+Deep learning / computer vision,China,base,1,0.3,0.3,0.3,manufacturing,True
+MIMO / BLAST layered space-time architecture,China,base,1,0.3,0.3,0.3,standards_ecosystem,True
+OLED displays / organic electronics,China,base,1,0.3,0.3,0.3,manufacturing,True
+Quantum dots / QD displays and nanomaterials,China,base,1,0.3,0.3,0.3,manufacturing,True
+BERT / pretrained language models,China,base,1,0.25,0.25,0.25,cloud_compute,True
+CMOS active-pixel image sensors,China,base,1,0.25,0.25,0.25,manufacturing,True
+Transformers / foundation models,China,base,1,0.25,0.25,0.25,cloud_compute,True
+Bigtable / NoSQL data systems,China,base,1,0.2,0.2,0.2,cloud_compute,True
+Deep reinforcement learning / game AI,China,base,1,0.2,0.2,0.2,adoption_market,True
+Diffusion generative models,China,base,1,0.2,0.2,0.2,cloud_compute,True
+Google File System / cloud data infrastructure,China,base,1,0.2,0.2,0.2,cloud_compute,True
+MapReduce / big data processing,China,base,1,0.2,0.2,0.2,cloud_compute,True
+Turbo codes / channel coding,China,base,1,0.2,0.2,0.2,standards_ecosystem,True
+Nd-Fe-B rare-earth permanent magnets,China,high,1,0.85,0.85,0.85,manufacturing,True
+PERC silicon solar cells,China,high,1,0.85,0.85,0.85,manufacturing,True
+Lithium-ion batteries / LFP cathode,China,high,1,0.75,0.75,0.75,manufacturing,True
+High-brightness blue GaN LED,China,high,1,0.6,0.6,0.6,manufacturing,True
+Lithium-ion batteries / layered oxide cathodes,China,high,1,0.6,0.6,0.6,manufacturing,True
+Residual networks / computer vision,China,high,1,0.55,0.55,0.55,manufacturing,True
+Robot Operating System / ROS,China,high,1,0.55,0.55,0.55,manufacturing,True
+SLAM / autonomous robotics,China,high,1,0.55,0.55,0.55,adoption_market,True
+YOLO real-time object detection,China,high,1,0.55,0.55,0.55,manufacturing,True
+OLED displays / organic electronics,China,high,1,0.5,0.5,0.5,manufacturing,True
+Deep learning / computer vision,China,high,1,0.45,0.45,0.45,manufacturing,True
+MIMO / BLAST layered space-time architecture,China,high,1,0.45,0.45,0.45,standards_ecosystem,True
+Quantum dots / QD displays and nanomaterials,China,high,1,0.45,0.45,0.45,manufacturing,True
+BERT / pretrained language models,China,high,1,0.4,0.4,0.4,cloud_compute,True
+CMOS active-pixel image sensors,China,high,1,0.4,0.4,0.4,manufacturing,True
+Transformers / foundation models,China,high,1,0.4,0.4,0.4,cloud_compute,True
+Bigtable / NoSQL data systems,China,high,1,0.35,0.35,0.35,cloud_compute,True
+Deep reinforcement learning / game AI,China,high,1,0.35,0.35,0.35,adoption_market,True
+Diffusion generative models,China,high,1,0.35,0.35,0.35,cloud_compute,True
+Google File System / cloud data infrastructure,China,high,1,0.35,0.35,0.35,cloud_compute,True
+MapReduce / big data processing,China,high,1,0.35,0.35,0.35,cloud_compute,True
+Turbo codes / channel coding,China,high,1,0.35,0.35,0.35,standards_ecosystem,True
+PERC silicon solar cells,China,low,1,0.55,0.55,0.55,manufacturing,True
+Lithium-ion batteries / LFP cathode,China,low,1,0.45,0.45,0.45,manufacturing,True
+Nd-Fe-B rare-earth permanent magnets,China,low,1,0.45,0.45,0.45,manufacturing,True
+High-brightness blue GaN LED,China,low,1,0.25,0.25,0.25,manufacturing,True
+Lithium-ion batteries / layered oxide cathodes,China,low,1,0.25,0.25,0.25,manufacturing,True
+Residual networks / computer vision,China,low,1,0.2,0.2,0.2,manufacturing,True
+Robot Operating System / ROS,China,low,1,0.2,0.2,0.2,manufacturing,True
+SLAM / autonomous robotics,China,low,1,0.2,0.2,0.2,adoption_market,True
+YOLO real-time object detection,China,low,1,0.2,0.2,0.2,manufacturing,True
+BERT / pretrained language models,China,low,1,0.15,0.15,0.15,cloud_compute,True
+CMOS active-pixel image sensors,China,low,1,0.15,0.15,0.15,manufacturing,True
+Deep learning / computer vision,China,low,1,0.15,0.15,0.15,manufacturing,True
+MIMO / BLAST layered space-time architecture,China,low,1,0.15,0.15,0.15,standards_ecosystem,True
+OLED displays / organic electronics,China,low,1,0.15,0.15,0.15,manufacturing,True
+Quantum dots / QD displays and nanomaterials,China,low,1,0.15,0.15,0.15,manufacturing,True
+Transformers / foundation models,China,low,1,0.15,0.15,0.15,cloud_compute,True
+Bigtable / NoSQL data systems,China,low,1,0.1,0.1,0.1,cloud_compute,True
+Deep reinforcement learning / game AI,China,low,1,0.1,0.1,0.1,adoption_market,True
+Diffusion generative models,China,low,1,0.1,0.1,0.1,cloud_compute,True
+Google File System / cloud data infrastructure,China,low,1,0.1,0.1,0.1,cloud_compute,True
+MapReduce / big data processing,China,low,1,0.1,0.1,0.1,cloud_compute,True
+Turbo codes / channel coding,China,low,1,0.1,0.1,0.1,standards_ecosystem,True

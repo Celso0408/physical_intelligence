@@ -1,0 +1,15 @@
+origin_country,origin_country_iso3,originated_papers,first_year,latest_year,top_broad_areas,top_fields,public_private_mix,originated_paper_share
+United States,USA,42,1976,2021,Technology / Artificial Intelligence; Technology / Cloud Infrastructure; Technology / Cryptography,Public-key cryptography / Internet security; Networking / Ethernet; RISC architecture,Private; Mixed; Public,0.5915492957746479
+United Kingdom,GBR,6,1977,2021,Chemistry / Energy Materials; Biology / Antibody Therapeutics; Biology / Genomics,Lithium-ion batteries / layered oxide cathodes; Humanized antibodies / CDR grafting; Sanger DNA sequencing,Public; Private,0.08450704225352113
+Japan,JPN,4,1977,2000,Materials Science / Electromechanical Systems; Biology / Pharma; Physics / Optoelectronics,Nd-Fe-B rare-earth permanent magnets; Statins / HMG-CoA reductase inhibitors; High-brightness blue GaN LED,Private; Mixed,0.056338028169014086
+Germany,DEU,3,1990,2012,Technology / Artificial Intelligence; Biology / Genome Editing; Engineering / Robotics,LSTM sequence learning; CRISPR-Cas9 programmable genome editing; SLAM / autonomous robotics,Public; Mixed,0.04225352112676056
+France,FRA,3,1988,2003,Physics / Spintronics; Engineering / Telecommunications; Biology / Cardiometabolic Genetics,Giant magnetoresistance / data storage; Turbo codes / channel coding; PCSK9 inhibitors / cholesterol,Public,0.04225352112676056
+Canada,CAN,3,2003,2012,Biology / Cardiometabolic Genetics; Biology / RNA Drug Delivery; Technology / Artificial Intelligence,PCSK9 inhibitors / cholesterol; Ionizable lipid nanoparticles / RNA delivery; Deep learning / computer vision,Public; Mixed,0.04225352112676056
+Switzerland,CHE,3,1994,1997,Technology / Web; Biology / Oncology Pharma; Technology / Artificial Intelligence,World Wide Web; BCR-ABL kinase inhibition / imatinib; LSTM sequence learning,Public; Mixed,0.04225352112676056
+Belgium,BEL,1,1987,1987,Engineering / Agricultural Biotechnology,Bt insect-resistant transgenic crops,Private,0.014084507042253521
+Australia,AUS,1,1989,1989,Engineering / Solar Energy,PERC silicon solar cells,Public,0.014084507042253521
+Austria,AUT,1,2012,2012,Biology / Genome Editing,CRISPR-Cas9 programmable genome editing,Public,0.014084507042253521
+China,CHN,1,2015,2015,Technology / Artificial Intelligence,Residual networks / computer vision,Private,0.014084507042253521
+Lebanon,LBN,1,2003,2003,Biology / Cardiometabolic Genetics,PCSK9 inhibitors / cholesterol,Public,0.014084507042253521
+Sweden,SWE,1,2012,2012,Biology / Genome Editing,CRISPR-Cas9 programmable genome editing,Public,0.014084507042253521
+Unknown / online,,1,2008,2008,Technology / Cryptography and Financial Technology,Bitcoin / blockchain,Non-institutional,0.014084507042253521

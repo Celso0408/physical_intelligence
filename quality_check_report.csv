@@ -1,0 +1,13 @@
+check,severity,count,detail
+missing_doi_or_link,ok,0,0 rows flagged.
+missing_year,ok,0,0 rows flagged.
+duplicate_id,ok,0,0 rows flagged.
+ambiguous_country,warning,1,1 rows flagged.
+empty_institution,ok,0,0 rows flagged.
+empty_rationale,ok,0,0 rows flagged.
+assumption_validation,ok,0,No assumption validation warnings.
+china_expected_v020_ids_present,ok,0,All expected v0.2.0 China beneficiary paper IDs are present.
+china_flagged_rows_missing_required_fields,ok,0,"China beneficiary rows should include role, low/base/high shares, confidence, and notes."
+partial_china_layer_not_complete_global_allocation,info,22,China v0.2.0 rows are a partial beneficiary layer and should not be treated as a full country ranking.
+flow_capture_share_outside_0_1,ok,0,Country capture shares should be fractions between 0 and 1.
+negative_revenue_or_profit_values,ok,0,Negative monetary values require explicit cost/loss labeling.

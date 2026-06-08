@@ -1,0 +1,10 @@
+pandas
+numpy
+plotly
+pycountry
+country_converter
+scipy
+nbformat
+ipywidgets
+kaleido
+openpyxl

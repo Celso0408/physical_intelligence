@@ -1,0 +1,12 @@
+beneficiary_country,beneficiary_country_iso3,revenue_capture_low_usd,revenue_capture_base_usd,revenue_capture_high_usd,profit_proxy_low_usd,profit_proxy_base_usd,profit_proxy_high_usd,number_of_originated_papers,number_of_benefited_papers,top_beneficiary_roles,top_fields,confidence_mix,originated_paper_share,estimated_value_captured_share,origin_to_capture_gap
+China,CHN,,,,,,,1,22,manufacturing; cloud_compute; standards_ecosystem,Lithium-ion batteries / layered oxide cathodes; Nd-Fe-B rare-earth permanent magnets; OLED displays / organic electronics,china_medium; china_high; china_medium-high,0.014084507042253521,,
+United States,USA,,,,,,,42,8,company_headquarters; research_origin,Nucleoside-modified mRNA; Lithium-ion batteries / LFP cathode; Transformers / foundation models,example_not_audited,0.5915492957746479,,
+South Korea,KOR,,,,,,,0,6,supply_chain; manufacturing,Lithium-ion batteries / layered oxide cathodes; Lithium-ion batteries / LFP cathode; Deep learning / computer vision,example_not_audited,0.0,,
+Germany,DEU,,,,,,,3,4,adoption_market; equipment_supplier; company_headquarters,Lithium-ion batteries / layered oxide cathodes; PCR molecular amplification; Lithium-ion batteries / LFP cathode,example_not_audited,0.04225352112676056,,
+Netherlands,NLD,,,,,,,0,4,equipment_supplier,Deep learning / computer vision; Residual networks / computer vision; Transformers / foundation models,example_not_audited,0.0,,
+Taiwan,TWN,,,,,,,0,4,manufacturing,Deep learning / computer vision; Residual networks / computer vision; Transformers / foundation models,example_not_audited,0.0,,
+Japan,JPN,,,,,,,4,3,commercialization; manufacturing,Lithium-ion batteries / layered oxide cathodes; PCR molecular amplification; Lithium-ion batteries / LFP cathode,example_not_audited,0.056338028169014086,,
+Switzerland,CHE,,,,,,,3,2,company_headquarters; supply_chain,PCR molecular amplification; Nucleoside-modified mRNA,example_not_audited,0.04225352112676056,,
+United Kingdom,GBR,,,,,,,6,2,research_origin; adoption_market,Lithium-ion batteries / layered oxide cathodes; PCR molecular amplification,example_not_audited,0.08450704225352113,,
+Belgium,BEL,,,,,,,1,1,manufacturing,Nucleoside-modified mRNA,example_not_audited,0.014084507042253521,,
+Canada,CAN,,,,,,,3,1,research_origin,Deep learning / computer vision,example_not_audited,0.04225352112676056,,

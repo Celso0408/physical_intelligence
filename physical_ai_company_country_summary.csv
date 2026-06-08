@@ -1,0 +1,12 @@
+country,country_iso3,active_company_exposures,fractional_company_count,investment_base_usd_m_fractional
+United States,USA,19.0,17.5,23988.4
+China,CHN,17.0,16.0,7959.65
+United Kingdom,GBR,4.0,3.0,3364.9
+India,IND,4.0,3.5,1266.75
+Canada,CAN,3.0,3.0,1618.0
+France,FRA,2.0,1.5,817.0
+Argentina,ARG,2.0,1.5,200.0
+Chile,CHL,1.0,1.0,430.0
+Brazil,BRA,1.0,1.0,288.8
+Germany,DEU,1.0,1.0,250.0
+Norway,NOR,1.0,1.0,136.0
